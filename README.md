@@ -1,2 +1,2 @@
 # Brownie
-Recipie for brownie
+Recipe for brownie
